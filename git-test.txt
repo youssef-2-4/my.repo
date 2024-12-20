@@ -1,0 +1,7 @@
+git test 
+123
+hi my name is joo
+testing git add .
+456
+789
+10
